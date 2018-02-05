@@ -1,0 +1,8 @@
+EmissionBlink.cs by Sylker Teles
+
+LICENSE TERMS
+
+Use it as you wish, improve it, change it and if you're kind, mention me ;)
+But if you got any serious problems using this (not likely tho), don't blame me xD.
+
+Enjoy!
